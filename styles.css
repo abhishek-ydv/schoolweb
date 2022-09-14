@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
     color: white;
-    font-family: Poppins;
+    font-family: Trocchi, sans-serif;
 }
 
 .navbar {
-    background-color: rgba(2, 69, 163, 255);
+    background-color: #050A30;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -32,7 +32,7 @@
 }
 
 .navbar a {
-    color: white;
+    color: #FFDAB9;
     text-decoration: none;
 }
 
